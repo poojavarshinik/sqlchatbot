@@ -1,4 +1,6 @@
 import os
+os.system('pip install google-generativeai')
+os.system('pip install google-api_core')
 import time
 import streamlit as st
 import google.generativeai as genai
