@@ -43,19 +43,19 @@ def main():
     file_path = "SAMPLEE.csv"  # Update with the correct path
 
     # Upload file to Gemini
-    st.write("Uploading file to Gemini...")
+   
     try:
         files = [upload_to_gemini(file_path, mime_type="text/csv")]
-        st.write("File uploaded successfully.")
+       
     except Exception as e:
         st.error(f"Failed to upload file: {e}")
         return
 
     # Wait for the file to be active
-    st.write("Waiting for file to be ready...")
+   
     try:
         wait_for_files_active(files)
-        st.write("File is ready.")
+       
     except Exception as e:
         st.error(f"Failed to wait for file: {e}")
         return
