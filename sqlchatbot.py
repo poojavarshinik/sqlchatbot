@@ -38,7 +38,7 @@ def main():
     st.write("This chatbot generates SQL queries based on your natural language input.")
 
     # Path to the file to be uploaded
-    file_path = "C:\\Users\\Admin\\Documents\\SAMPLEE.csv"  # Update with the correct path
+    file_path = "SAMPLEE.csv"  # Update with the correct path
 
     # Upload file to Gemini
     st.write("Uploading file to Gemini...")
