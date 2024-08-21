@@ -1,0 +1,101 @@
+country,County,Post_Town,sub_industry,industry,sector,employee_range,turnover_range,company_age,head_office_country,SIC_CODE
+England,Cambridgeshire,Ely,Accounting,Accounting,Professional Services,200 to 499,25M to 50M,20,England,4104
+Scotland,Lanarkshire,Glasgow,Accounting,Accounting,Professional Services,500 to 999,2.5M to 5M,18,United Kingdom,4187
+England,London,London,Accounting,Accounting,Professional Services,Unclassified,25M to 50M,21,England,4197
+England,Derbyshire,Derby,Accounting & Bookkeeping Services,Accounting,Professional Services,6 to 10,100K to 250K,13,United Kingdom,4191
+England,London,London,Acoustical Consultants,Engineering Services,Professional Services,6 to 10,Upto 100K,15,England,4128
+England,Buckinghamshire,High Wycombe,Acoustical Consultants,Engineering Services,Professional Services,11 to 19,2.5M to 5M,28,England,4158
+Scotland,Lanarkshire,Glasgow,Airline Ticket Agencies,Travel Arrangements,Administrative and Support Services,200 to 499,50M to 100M,46,,4177
+England,Suffolk,Saxmundham,Antique Dealers,Retail Art Dealers,Retail,1000 to 5000,Upto 100K,59,England,4126
+England,Cambridgeshire,Cambridge,Architectural Services,Architecture and Planning,Professional Services,100 to 199,5M to 10M,43,England,4122
+England,London,London,Beauty Products,Retail Health and Personal Care Products,Retail,20 to 49,5M to 10M,33,England,4182
+England,Surrey,Woking,Book Publishers,Printing Services,Manufacturing,Unclassified,250K to 500K,28,United Kingdom,4163
+Scotland,Midlothian,Loanhead,Business Centres,Real Estate,Real Estate and Equipment Rental Services,6 to 10,Upto 100K,7,,4165
+England,London,London,Business Management Consultants,Business Consulting and Services,Professional Services,6 to 10,Upto 100K,7,England,4106
+England,Nottinghamshire,Nottingham,Careers Advice,Professional Training and Coaching,Education,11 to 19,Upto 100K,12,England,4125
+Wales,Clwyd,Ruthin,Civil Engineers,Civil Engineering,Construction,200 to 499,50M to 100M,54,Wales,4193
+England,Kent,Rochester,Commercial Cleaning Services,Facilities Services,Administrative and Support Services,20 to 49,1M to 2.5M,22,England,4192
+England,East Sussex,Bexhill On Sea,Community Networks,"Technology, Information and Internet","Technology, Information and Media",Unclassified,Upto 100K,27,England,4110
+England,Essex,Upminster,Computer Consultants,IT Services and IT Consulting,Professional Services,11 to 19,1M to 2.5M,15,England,4184
+England,London,London,Computer Systems & Software (Development),IT Services and IT Consulting,Professional Services,50 to 99,2.5M to 5M,12,England,4115
+England,Oxfordshire,Oxford,Computer Systems & Software (Development),IT Services and IT Consulting,Professional Services,50 to 99,5M to 10M,26,England,4123
+England,Northamptonshire,Northampton,Computer Systems & Software (Development),IT Services and IT Consulting,Professional Services,11 to 19,250K to 500K,26,England,4131
+England,Cambridgeshire,St Ives,Computer Systems & Software (Development),IT Services and IT Consulting,Professional Services,50 to 99,Unclassified,20,England,4162
+England,London,London,Concierge Services,Business Consulting and Services,Professional Services,Unclassified,10M to 25M,24,England,4156
+England,West Midlands,Birmingham,Construction,Building Construction,Construction,20 to 49,250K to 500K,11,England,4155
+England,West Yorkshire,Cleckheaton,Construction Contractors/builders,Building Construction,Construction,1000 to 5000,Upto 100K,88,England,4130
+England,London,London,Corporate Entertainment Agency,Events Services,Administrative and Support Services,20 to 49,10M to 25M,9,England,4118
+England,North Humberside,Hull,Counselling & Advice,Individual and Family Services,Hospitals and Health Care,1 to 5,100K to 250K,78,England,4180
+Scotland,Lanarkshire,Glasgow,Dairies,Food and Beverage Manufacturing,Manufacturing,100 to 199,Upto 100K,27,Scotland,4135
+England,East Sussex,Heathfield,Demolition & Dismantling Contractors,Building Construction,Construction,6 to 10,2.5M to 5M,19,England,4134
+England,London,London,Education Agencies & Authorities,Public Policy Offices,Government Administration,50 to 99,2.5M to 5M,6,England,4164
+England,Nottinghamshire,Nottingham,Educational Equipment & Supplies,Retail Office Supplies and Gifts,Retail,50 to 99,5M to 10M,16,England,4157
+England,Devon,Exeter,Educational Services,Professional Training and Coaching,Education,1 to 5,Upto 100K,15,England,4154
+England,Nottinghamshire,Nottingham,Educational Training Providers,Professional Training and Coaching,Education,200 to 499,10M to 25M,13,England,4103
+England,London,London,Educational Training Providers,Professional Training and Coaching,Education,20 to 49,250K to 500K,26,England,4198
+England,Kent,Erith,Elevator Maintenance Services/servicing & Repairs,Repair and Maintenance,Consumer Services,6 to 10,25M to 50M,16,United Kingdom,4189
+Scotland,Lanarkshire,Glasgow,Employment & Recruitment Agencies,Staffing and Recruiting,Administrative and Support Services,20 to 49,1M to 2.5M,12,Scotland,4117
+England,Nottinghamshire,Newark,Employment & Recruitment Agencies,Staffing and Recruiting,Administrative and Support Services,20 to 49,2.5M to 5M,17,England,4150
+England,West Sussex,Horsham,Energy Management Control Systems,"Appliances, Electrical, and Electronics Manufacturing",Manufacturing,100 to 199,50M to 100M,14,England,4139
+England,London,London,Financial Planning & Investment Management Companies,Capital Markets,Financial Services,200 to 499,500K to 1M,9,England,4166
+England,London,London,Financial Services,Capital Markets,Financial Services,1 to 5,100K to 250K,12,,4183
+Scotland,Lanarkshire,Glasgow,Flooring Services,Specialty Trade Contractors,Construction,11 to 19,10M to 25M,38,United Kingdom,4119
+England,Lancashire,Manchester,Freight Service,Freight and Package Transportation,"Transportation, Logistics, Supply Chain and Storage",200 to 499,25M to 50M,30,England,4129
+England,South Yorkshire,Sheffield,Gas Engineers,Engineering Services,Professional Services,200 to 499,50M to 100M,52,England,4133
+England,Lancashire,Chorley,General Dentistry,Medical Practices,Hospitals and Health Care,1 to 5,500K to 1M,19,England,4113
+Northern Ireland,County Antrim,Belfast,Golf Courses & Clubs,Recreational Facilities,Entertainment Providers,6 to 10,100K to 250K,30,United Kingdom,4148
+England,Avon,Bath,Graphic Design,Design Services,Professional Services,11 to 19,100K to 250K,8,England,4167
+England,Buckinghamshire,Aylesbury,Home Health Care Services,Health and Human Services,Government Administration,1000 to 5000,100M to 500M,19,United Kingdom,4127
+England,Hampshire,Gosport,Hotels Restaurants & Leisure,Hospitality,Accommodation Services,1000 to 5000,50M to 100M,9,United Kingdom,4100
+England,Cleveland,Middlesbrough,Industrial & Commercial Machinery Equipment,Machinery Manufacturing,Manufacturing,20 to 49,250K to 500K,41,England,4194
+Wales,Clwyd,Deeside,Information Services,IT Services and IT Consulting,Professional Services,200 to 499,500M to 1B,24,United Kingdom,4175
+Northern Ireland,County Armagh,Newry,Interior Design,Design Services,Professional Services,1 to 5,250K to 500K,7,Northern Ireland,4141
+England,West Sussex,Haywards Heath,Interior Design,Design Services,Professional Services,6 to 10,10M to 25M,23,England,4173
+England,London,London,Investment Consultants,Capital Markets,Financial Services,50 to 99,50M to 100M,20,England,4145
+England,Nottinghamshire,Retford,Job Hire,Staffing and Recruiting,Administrative and Support Services,200 to 499,10M to 25M,25,United Kingdom,4111
+Wales,Gwent,Tredegar,Laboratories,Research Services,Professional Services,6 to 10,250K to 500K,23,United Kingdom,4152
+England,London,London,Lebanese Restaurants,Food and Beverage Services,Accommodation Services,20 to 49,1M to 2.5M,18,England,4143
+England,Buckinghamshire,Milton Keynes,Letting Agents/real Estate Agencies,Real Estate,Real Estate and Equipment Rental Services,100 to 199,10M to 25M,21,England,4101
+England,Cheshire,Wilmslow,Manufacturers Scientific Apparatus & Instruments,Medical Equipment Manufacturing,Manufacturing,5000+,100M to 500M,28,United Kingdom,4116
+England,London,London,Marketing Consultants & Services,Advertising Services,Professional Services,20 to 49,2.5M to 5M,38,England,4144
+England,London,London,Media & Advertising,Advertising Services,Professional Services,6 to 10,100K to 250K,22,England,4120
+England,Berkshire,Wokingham,Messenger & Courier Services,Freight and Package Transportation,"Transportation, Logistics, Supply Chain and Storage",Unclassified,10M to 25M,53,,4186
+England,London,London,Mobile App Development/Software Companies,IT Services and IT Consulting,Professional Services,50 to 99,5M to 10M,17,England,4108
+Scotland,Lanarkshire,Glasgow,Mobile App Development/Software Companies,IT Services and IT Consulting,Professional Services,Unclassified,Upto 100K,12,United Kingdom,4199
+England,West Yorkshire,Halifax,Mortgage Brokers,Credit Intermediation,Financial Services,11 to 19,Upto 100K,8,England,4190
+England,London,London,Museums,"Museums, Historical Sites, and Zoos",Entertainment Providers,200 to 499,2.5M to 5M,35,England,4109
+Wales,South Glamorgan,Penarth,Occupational Therapist,Health and Human Services,Government Administration,1 to 5,100K to 250K,11,Wales,4142
+England,South Humberside,Grimsby,Oil Companies,Oil and Gas,"Oil, Gas, and Mining",20 to 49,1M to 2.5M,63,England,4102
+England,West Yorkshire,Ilkley,Online Retail,Online and Mail Order Retail,Retail,Unclassified,10M to 25M,29,England,4124
+England,Lancashire,Manchester,Online Retail,Online and Mail Order Retail,Retail,50 to 99,1M to 2.5M,17,England,4161
+England,Berkshire,Maidenhead,Online Retail,Online and Mail Order Retail,Retail,20 to 49,10M to 25M,0,England,4176
+England,South Yorkshire,Sheffield,"Operatives Housing Associations, Societies, Trusts & Co",Housing and Community Development,Government Administration,1000 to 5000,Upto 100K,47,England,4172
+England,Leicestershire,Leicester,Outdoor Pursuit Organisers,Events Services,Administrative and Support Services,5000+,1B+,37,England,4140
+England,London,London,Project Management,Business Consulting and Services,Professional Services,20 to 49,10M to 25M,13,United Kingdom,4169
+England,Nottinghamshire,Nottingham,Property & Estate Management Companies,Real Estate,Real Estate and Equipment Rental Services,200 to 499,50M to 100M,19,United Kingdom,4168
+England,London,London,Property Investments,Capital Markets,Financial Services,6 to 10,250K to 500K,15,United Kingdom,4179
+England,London,London,"Real Estate Agencies, Agents, Buyers",Real Estate,Real Estate and Equipment Rental Services,20 to 49,2.5M to 5M,16,England,4146
+England,London,London,Record Companies,Media and Telecommunications,"Technology, Information and Media",20 to 49,2.5M to 5M,12,England,4153
+England,West Yorkshire,Wakefield,Residential Care Homes,Nursing Homes and Residential Care Facilities,Hospitals and Health Care,Unclassified,500M to 1B,43,United Kingdom,4147
+Scotland,Isle of Bute,Isle of Bute,Rest & Retirement Homes,Nursing Homes and Residential Care Facilities,Hospitals and Health Care,1000 to 5000,500M to 1B,21,United Kingdom,4185
+England,North Humberside,Hull,Sawmills & Wood Shavings,Wood Product Manufacturing,Manufacturing,11 to 19,25M to 50M,60,England,4136
+England,London,London,Security Services,Security and Investigations,Administrative and Support Services,11 to 19,2.5M to 5M,39,England,4159
+England,Buckinghamshire,Milton Keynes,Site Investigation Consultants,Engineering Services,Professional Services,11 to 19,5M to 10M,17,England,4195
+England,Avon,Bristol,Solicitors - Accident And Personal Injury,Legal Services,Professional Services,20 to 49,5M to 10M,15,England,4196
+England,Essex,Chelmsford,Sound Equipment Hire & Installation,Equipment Rental Services,Real Estate and Equipment Rental Services,6 to 10,100K to 250K,21,England,4174
+Scotland,West Lothian,Broxburn,Sports Clubs & Associations,Civic and Social Organizations,Consumer Services,11 to 19,100K to 250K,16,,4170
+England,West Midlands,Smethwick,Steel Manufacturers,Primary Metal Manufacturing,Manufacturing,Unclassified,Upto 100K,41,England,4105
+England,West Midlands,Birmingham,Telecommunication Services,Media and Telecommunications,"Technology, Information and Media",Unclassified,25M to 50M,35,England,4160
+Northern Ireland,County Antrim,Ballymena,Textile Merchants And Agents,Wholesale Apparel and Sewing Supplies,Wholesale,11 to 19,5M to 10M,76,United Kingdom,4107
+England,Lancashire,Preston,Textile Merchants And Agents,Wholesale Apparel and Sewing Supplies,Wholesale,50 to 99,10M to 25M,0,United Kingdom,4171
+England,Lancashire,Bacup,Theatre Companies,Performing Arts and Spectator Sports,Entertainment Providers,6 to 10,Upto 100K,6,England,4137
+England,Hertfordshire,Watford,Training Services,Professional Training and Coaching,Education,100 to 199,5M to 10M,22,England,4138
+England,Avon,Bristol,Training Services,Professional Training and Coaching,Education,6 to 10,Upto 100K,15,United Kingdom,4178
+England,North Yorkshire,York,Translators & Interpreters,Translation and Localization,Administrative and Support Services,Unclassified,Upto 100K,12,United Kingdom,4181
+England,Surrey,Kingston upon Thames,Travel Agents & Holiday Companies,Travel Arrangements,Administrative and Support Services,100 to 199,10M to 25M,21,England,4121
+England,London,London,Travel Agents & Holiday Companies,Travel Arrangements,Administrative and Support Services,50 to 99,10M to 25M,10,England,4188
+England,Kent,Margate,Used Car Dealerships,Retail Motor Vehicles,Retail,50 to 99,50M to 100M,19,England,4112
+England,South Yorkshire,Rotherham,Voluntary Association/charitable Organization,Non-profit Organizations,Consumer Services,20 to 49,250K to 500K,46,United Kingdom,4114
+Northern Ireland,County Londonderry,Londonderry,Voluntary Association/charitable Organization,Non-profit Organizations,Consumer Services,20 to 49,2.5M to 5M,27,United Kingdom,4132
+England,Cheshire,Warrington,Water Coolers,"Appliances, Electrical, and Electronics Manufacturing",Manufacturing,11 to 19,2.5M to 5M,23,England,4149
+England,West Sussex,Crawley,,Events Services,Administrative and Support Services,50 to 99,2.5M to 5M,15,England,4151
